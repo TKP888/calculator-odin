@@ -43,7 +43,7 @@ border: solid 2px black;
 #multiply,
 #addition,
 #subtract,
-#equal {
+#equals {
     background-color: orange;
     border-color: white;
 }
